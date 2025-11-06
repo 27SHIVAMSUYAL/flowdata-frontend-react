@@ -240,18 +240,6 @@ sudo firewall-cmd --reload
 - Access via `/admin-login` and `/admin-signup`
 - Visual indicators (glowing text) on auth pages
 
-## 🎯 Future Enhancements
-
-- [ ] Export student data to CSV/Excel
-- [ ] Bulk student import
-- [ ] Student profile pictures
-- [ ] Advanced filtering options
-- [ ] Email notifications
-- [ ] Password reset functionality
-- [ ] Two-factor authentication
-- [ ] Activity logs/audit trail
-- [ ] Student performance analytics
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
