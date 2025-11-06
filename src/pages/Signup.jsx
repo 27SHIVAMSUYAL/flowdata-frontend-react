@@ -53,9 +53,10 @@ function Signup() {
             console.log('response', response.data);
             localStorage.setItem('access_token', response.data.access_token);
             localStorage.setItem('userType' , userType);
+            alert("Success sign up successfull ")
 
             setError('');
-            navigate("/dashboard");
+            navigate("/");
             }else{
                 setError("Invalid Details");
                 setUsername("");
